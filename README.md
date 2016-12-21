@@ -1,4 +1,4 @@
 # Sonoff
-Arduino sketches for the Sonoff switch
+Arduino sketch for the Sonoff switch
 
 This works for me. Hope you like it!
